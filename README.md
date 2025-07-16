@@ -6,4 +6,4 @@ This repo is used for the GGM program at Brown University. Here, we introduce th
 
 Please click the link below to open the notebook in Google Colab directly.
 
-https://colab.research.google.com/drive/1JKN9LzayqykwTeIsK_vhELFGsguXUN4z#scrollTo=G-8BqLJC_01v
+https://colab.research.google.com/drive/11xJtbQX_lO9ghdgCtE7YqMzP0RGF8_7Q?usp=sharing
